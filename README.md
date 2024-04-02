@@ -1,6 +1,7 @@
 # ML-visualization
 
 To run, install necessary libraries and then run the main.py
+</br>
 Provided algorithms: Perceptron, Adaline and MLP
 
 
